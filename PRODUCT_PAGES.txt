@@ -1,0 +1,15 @@
+ID	COUNTRY	MODEL	PRODUCT_PAGE	MAIN_CHANNEL
+1	TR	3060	https://www.amazon.com.tr/s?k=3060&i=computers&rh=n%3A12466439031%2Cn%3A12601896031%2Cn%3A17486328031%2Cn%3A12601951031%2Cp_n_availability%3A13136583031&dc&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1614626125&rnid=12466439031&ref=sr_nr_n_3	-1001215894181
+2	TR	3070	https://www.amazon.com.tr/s?k=3070&i=computers&rh=n%3A12601951031%2Cp_n_availability%3A13136583031&dc&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1614626176&rnid=13136582031&ref=sr_nr_p_n_availability_2	-1001215894181
+3	TR	3080	https://www.amazon.com.tr/s?k=3080&i=computers&rh=n%3A12601951031%2Cp_n_availability%3A13136583031&dc&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1614626253&rnid=13136582031&ref=sr_nr_p_n_availability_2	-1001215894181
+4	TR	3090	https://www.amazon.com.tr/s?k=3090&rh=n%3A12601951031&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss	-1001215894181
+5	UK	3060	https://www.amazon.co.uk/s?k=3060&i=computers&rh=n%3A428655031%2Cn%3A430500031%2Cp_n_availability%3A419162031&dc&qid=1614628429&rnid=419160031&ref=sr_nr_p_n_availability_2	-1001215894181
+6	UK	3070	https://www.amazon.co.uk/s?k=3070&i=computers&rh=n%3A430500031%2Cp_n_availability%3A419162031&dc&qid=1614628460&rnid=419160031&ref=sr_nr_p_n_availability_2	-1001215894181
+7	UK	3080	https://www.amazon.co.uk/s?k=3080&i=computers&rh=n%3A430500031%2Cp_n_availability%3A419162031&dc&qid=1614628508&rnid=419160031&ref=sr_nr_p_n_availability_2	-1001215894181
+8	UK	3090	https://www.amazon.co.uk/s?k=3090&i=computers&rh=n%3A430500031%2Cp_n_availability%3A419162031&dc&qid=1614628545&rnid=419160031&ref=sr_nr_p_n_availability_2	-1001215894181
+9	FR	3060	https://www.amazon.fr/s?k=3060&i=computers&rh=n%3A430340031%2Cp_n_availability%3A437882031&dc&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1614628721&ref=sr_ex_p_36_0	-1001215894181
+10	FR	3070	https://www.amazon.fr/s?k=3070&i=computers&rh=n%3A430340031%2Cp_n_availability%3A437882031&dc&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1614628751&rnid=437880031&ref=sr_nr_p_n_availability_2	-1001215894181
+11	FR	3080	https://www.amazon.fr/s?k=3080&i=computers&rh=n%3A430340031%2Cp_n_availability%3A437882031&dc&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1614628784&rnid=437880031&ref=sr_nr_p_n_availability_2	-1001215894181
+12	FR	3090	https://www.amazon.fr/s?k=3090&i=computers&rh=n%3A430340031%2Cp_n_availability%3A437882031&dc&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1614628820&rnid=437880031&ref=sr_nr_p_n_availability_2	-1001215894181
+
+
