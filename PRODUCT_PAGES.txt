@@ -30,3 +30,4 @@ ID	COUNTRY	MODEL	PRODUCT_PAGE	MAIN_CHANNEL
 29	FR	PS5	https://www.amazon.fr/PS5-Console-Sony-PlayStation-Standard/dp/B08PW6NZTC/?1	-1001215894181
 30	FR	PS5_DIGITAL	https://www.amazon.fr/PlayStation-%C3%89dition-Standard-DualSense-Couleur/dp/B08H93ZRK9/?1	-1001215894181
 31	US	PS5	https://www.amazon.com/PlayStation-5-Console/dp/B08FC5L3RG/?1	-1001215894181
+32	TR	PS5	https://www.amazon.com.tr/Sony-SONY-PlayStation-5-Konsol/dp/B08LQZGF76/?1	-1001215894181
