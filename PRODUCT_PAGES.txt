@@ -23,3 +23,10 @@ ID	COUNTRY	MODEL	PRODUCT_PAGE	MAIN_CHANNEL
 22	ES	3070	https://www.amazon.es/s?k=3070&rh=n%3A937935031&ref=nb_sb_noss/?1	-1001215894181
 23	ES	3080	https://www.amazon.es/s?k=3080&rh=n%3A937935031&ref=nb_sb_noss/?1	-1001215894181
 24	ES	3090	https://www.amazon.es/s?k=3090&rh=n%3A937935031&ref=nb_sb_noss/?1	-1001215894181
+25	DE	PS5	https://www.amazon.de/-/tr/dp/B08X8X5CWR/?1	-1001215894181
+26	DE	PS5_DIGITAL	https://www.amazon.de/-/tr/dp/B08NTRNDPW/?1	-1001215894181
+27	IT	PS5	https://www.amazon.it/Playstation-Sony-PlayStation-5/dp/B08KKJ37F7/?1	-1001215894181
+28	IT	PS5_DIGITAL	https://www.amazon.it/Sony-PlayStation-5-Digital-Edition/dp/B08KJF2D25/?1	-1001215894181
+29	FR	PS5	https://www.amazon.fr/PS5-Console-Sony-PlayStation-Standard/dp/B08PW6NZTC/?1	-1001215894181
+30	FR	PS5_DIGITAL	https://www.amazon.fr/PlayStation-%C3%89dition-Standard-DualSense-Couleur/dp/B08H93ZRK9/?1	-1001215894181
+31	US	PS5	https://www.amazon.com/PlayStation-5-Console/dp/B08FC5L3RG/?1	-1001215894181
